@@ -1,0 +1,8 @@
+PROJECT_NAME = "babayan"
+PROJECT_NUMBER = 1.0
+PROJECT_BRIEF = "Утилита для поиска дубликатов файлов"
+OUTPUT_DIRECTORY = "docs"
+GENERATE_LATEX = NO
+INPUT = src,inc
+EXTRACT_ALL = yes
+HAVE_DOT = yes
